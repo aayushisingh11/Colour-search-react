@@ -1,3 +1,5 @@
+[Click here to see deployment](https://aayushisingh11.github.io/Colour-search-react/)
+---
 # Getting Started with Create React App
 In the project directory, you can run:
 
