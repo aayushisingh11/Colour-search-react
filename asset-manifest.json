@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Colour-search-react/static/css/main.be45e2be.chunk.css",
+    "main.js": "/Colour-search-react/static/js/main.d2d1b3d1.chunk.js",
+    "main.js.map": "/Colour-search-react/static/js/main.d2d1b3d1.chunk.js.map",
+    "runtime-main.js": "/Colour-search-react/static/js/runtime-main.88ab0797.js",
+    "runtime-main.js.map": "/Colour-search-react/static/js/runtime-main.88ab0797.js.map",
+    "static/js/2.bd0a5391.chunk.js": "/Colour-search-react/static/js/2.bd0a5391.chunk.js",
+    "static/js/2.bd0a5391.chunk.js.map": "/Colour-search-react/static/js/2.bd0a5391.chunk.js.map",
+    "static/js/3.43472d3a.chunk.js": "/Colour-search-react/static/js/3.43472d3a.chunk.js",
+    "static/js/3.43472d3a.chunk.js.map": "/Colour-search-react/static/js/3.43472d3a.chunk.js.map",
+    "index.html": "/Colour-search-react/index.html",
+    "static/css/main.be45e2be.chunk.css.map": "/Colour-search-react/static/css/main.be45e2be.chunk.css.map",
+    "static/js/2.bd0a5391.chunk.js.LICENSE.txt": "/Colour-search-react/static/js/2.bd0a5391.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88ab0797.js",
+    "static/js/2.bd0a5391.chunk.js",
+    "static/css/main.be45e2be.chunk.css",
+    "static/js/main.d2d1b3d1.chunk.js"
+  ]
+}
