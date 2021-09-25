@@ -20,7 +20,7 @@ function App() {
       <h1>Colour Search</h1>
       <input
         type="text"
-        placeholder="🔍Search"
+        placeholder="Search"
         value={term}
         onChange={(e) => setTerm(e.target.value)}
       /> 
